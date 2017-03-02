@@ -1,0 +1,48 @@
+h1  {  
+	color: white;
+	text-shadow:   4px 4px #000000;
+
+}
+header {
+	position: fixed;
+}
+body  {
+ background-image: url("../imgs/img2.jpg");
+ /*background-repeat:   no-repeat;*/
+ font-family: 'Supermercado One', cursive;
+ color: white;
+}
+nav li,a  {
+color: red;
+display:  inline;
+float: right;
+margin-top: -29px;
+padding: 10px;
+}
+.foot li,a{
+	display: inline;
+	float: left;
+}
+
+.navbar ul li  {
+	list-style-type: none;
+	margin-left:  0px;
+	width: 500px;
+}
+#hero  {
+	margin-left: 100px;
+	float: right;
+	}	
+#div12  {
+	float: left;
+}
+h3  {
+	margin-top: 410px;
+	margin-left: 50px;
+}
+#navbar{
+	font-size: 40px;
+	margin-right: 0;
+}
+
+
