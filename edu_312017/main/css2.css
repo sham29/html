@@ -1,0 +1,13 @@
+body {
+	/*background-image: url("../imgs/icon2.jpg");*/
+	background-color: aqua;
+}
+.container_12 { 
+background-image: url("../imgs/img2.jpg");
+ font-family: 'Supermercado One', cursive;
+ color: white;
+ }
+.navbar li,a{
+	disiplay: inline;
+	float: right;
+}
