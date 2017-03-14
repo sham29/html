@@ -8,6 +8,9 @@ body {
 	font-family: 'Supermercado One', cursive;
  	color: white;
 }
+/*header {
+	position: fixed;
+}*/
 .navbar li,a{
 	display: inline;
 	float: right;
